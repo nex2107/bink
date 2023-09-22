@@ -33,7 +33,7 @@
           "#968d90"
       ],
       "INTERACTIVE_MUTED": [
-          "#6a556b" 
+          "#" 
       ],
       "BACKGROUND_PRIMARY": [
           "#3c3940"
@@ -64,7 +64,7 @@
       ],
      
       "BACKGROUND_MESSAGE_HOVER": [
-          "#3c3940"
+          "#9e9899"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
           "#3c3940"
@@ -91,7 +91,7 @@
           "#3c3940"
       ],
       "CHANNEL_ICON": [
-          "##968d90"
+          "#968d90"
       ],
       "CHAT_BACKGROUND": [
           "#3c3940"
