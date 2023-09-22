@@ -64,10 +64,10 @@
       ],
      
       "BACKGROUND_MESSAGE_HOVER": [
-          "#261a1c"
+          "#221a26"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-          "#261a1c"
+          "#221a26"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
           "#261a1c"
@@ -88,13 +88,13 @@
           "#565f89"
       ],
       "KEYBOARD": [
-          "#261a1c"
+          "#221a26"
       ],
       "CHANNEL_ICON": [
           "#261a1c"
       ],
       "CHAT_BACKGROUND": [
-          "#261a1c"
+          "#221a26"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
           "#261a1c"
@@ -110,11 +110,11 @@
       "PRIMARY_360": "#261a1c",
       "PRIMARY_400": "#261a1c",
       "PRIMARY_500": "#261a1c",
-      "PRIMARY_600": "#261a1c",
+      "PRIMARY_600": "#221a26",
       "PRIMARY_630": "#261a1c",
       "PRIMARY_660": "#261a1c",
-      "PRIMARY_700": "#261a1c",
-      "PRIMARY_800": "#261a1c",
+      "PRIMARY_700": "#221a26",
+      "PRIMARY_800": "#221a26",
   
       "BRAND_260": "#261a1c",
       "BRAND_360": "#261a1c",
