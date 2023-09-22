@@ -36,31 +36,31 @@
           "#3c3940" 
       ],
       "BACKGROUND_PRIMARY": [
-          "#6335a1"
+          "#3c3940"
       ],
       "BACKGROUND_SECONDARY": [
-          "#6335a1"
+          "#3c3940"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-          "#6335a1"
+          "#3c3940"
       ],
       "BACKGROUND_TERTIARY": [
-          "#6335a1"
+          "#3c3940"
       ],
       "BACKGROUND_ACCENT": [
           "#5b4361"
       ],
       "BACKGROUND_FLOATING": [
-          "#3c3940"
+          "#6335a1"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-          "#3c3940"
+          "#6335a1"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-          "#3c3940"
+          "#6335a1"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-          "#3c3940"
+          "#6335a1"
       ],
      
       "BACKGROUND_MESSAGE_HOVER": [
