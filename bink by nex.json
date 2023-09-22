@@ -106,8 +106,8 @@
   "rawColors": {
       "PRIMARY_100": "#e6b1c8",
       "PRIMARY_200": "#3c3940",
-      "PRIMARY_300": "#7e5f67",
-      "PRIMARY_360": "#7e5f67",
+      "PRIMARY_300": "#e6b1c8",
+      "PRIMARY_360": "#e6b1c8",
       "PRIMARY_400": "#3c3940",
       "PRIMARY_500": "#3c3940",
       "PRIMARY_600": "#3c3940",
@@ -116,14 +116,14 @@
       "PRIMARY_700": "#3c3940",
       "PRIMARY_800": "#3c3940",
   
-      "BRAND_260": "#7e5f67",
-      "BRAND_360": "#7e5f67",
-      "BRAND_500": "#7e5f67",
-      "BRAND_560": "#6a4c69",
+      "BRAND_260": "#e6b1c8",
+      "BRAND_360": "#e6b1c8",
+      "BRAND_500": "#e6b1c8",
+      "BRAND_560": "#e6b1c8",
       "WHITE_500": "#e6b1c8",
-      "YELLOW_300": "#7e5f67",
-      "GREEN_360": "#7e5f67",
-      "RED_400": "#7e5f67"
+      "YELLOW_300": "#e6b1c8",
+      "GREEN_360": "#e6b1c8",
+      "RED_400": "#e6b1c8"
   },
     "plus": {
         "version": 0,
