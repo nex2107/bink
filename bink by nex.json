@@ -67,19 +67,19 @@
           "#9e9899"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-          "#4d4c4f"
+          "#"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-          "#4d4c4f"
+          "#"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
           "#"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-          "#4d4c4f"
+          "#"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-          "#4d4c4f"
+          "#"
       ],
       "CHANNELS_DEFAULT": [
           "#a87b87"
