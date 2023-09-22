@@ -121,9 +121,9 @@
       "BRAND_500": "#",
       "BRAND_560": "#",
       "WHITE_500": "#e6b1c8",
-      "YELLOW_300": "#",
-      "GREEN_360": "#",
-      "RED_400": "#"
+      "YELLOW_300": "#4d4c4f",
+      "GREEN_360": "#4d4c4f",
+      "RED_400": "#4d4c4f"
   },
     "plus": {
         "version": 0,
