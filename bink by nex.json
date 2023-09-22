@@ -64,10 +64,10 @@
       ],
      
       "BACKGROUND_MESSAGE_HOVER": [
-          "#221a26"
+          "#40393e"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-          "#221a26"
+          "#40393e"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
           "#40393e"
@@ -88,16 +88,16 @@
           "#565f89"
       ],
       "KEYBOARD": [
-          "#221a26"
+          "#40393e"
       ],
       "CHANNEL_ICON": [
           "#7e5f67"
       ],
       "CHAT_BACKGROUND": [
-          "#221a26"
+          "#40393e"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-          "#1d161e"
+          "#40393e"
       ],
       "SPOILER_REVEALED_BACKGROUND": [
           "#40393e"
@@ -105,16 +105,16 @@
   },
   "rawColors": {
       "PRIMARY_100": "#e6b1c8",
-      "PRIMARY_200": "#1d161e",
+      "PRIMARY_200": "#40393e",
       "PRIMARY_300": "#7e5f67",
       "PRIMARY_360": "#7e5f67",
-      "PRIMARY_400": "#1d161e",
-      "PRIMARY_500": "#1d161e",
-      "PRIMARY_600": "#221a26",
+      "PRIMARY_400": "#40393e",
+      "PRIMARY_500": "#40393e",
+      "PRIMARY_600": "#40393e",
       "PRIMARY_630": "#40393e",
       "PRIMARY_660": "#40393e",
-      "PRIMARY_700": "#221a26",
-      "PRIMARY_800": "#221a26",
+      "PRIMARY_700": "#40393e",
+      "PRIMARY_800": "#40393e",
   
       "BRAND_260": "#7e5f67",
       "BRAND_360": "#7e5f67",
