@@ -27,13 +27,13 @@
           "#7e5f67"
       ],
       "INTERACTIVE_HOVER": [
-          "#ffffff"
+          "#545253"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#ffffff"
+          "#d4c9ce"
       ],
       "INTERACTIVE_MUTED": [
-          "#ffffff" 
+          "#545253" 
       ],
       "BACKGROUND_PRIMARY": [
           "#3c3940"
@@ -79,7 +79,7 @@
           "#3c3940"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-          "#3d3b3c"
+          "#3c3940"
       ],
       "CHANNELS_DEFAULT": [
           "#a87b87"
@@ -94,13 +94,13 @@
           "#968d90"
       ],
       "CHAT_BACKGROUND": [
-          "#3d3b3c"
+          "#3c3940"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-          "#3d3b3c"
+          "#3c3940"
       ],
       "SPOILER_REVEALED_BACKGROUND": [
-          "#3d3b3c"
+          "#3c3940"
       ]
   },
   "rawColors": {
