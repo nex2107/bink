@@ -79,7 +79,7 @@
           "#3c3940"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-          "#3c3940"
+          "#3d3b3c"
       ],
       "CHANNELS_DEFAULT": [
           "#a87b87"
@@ -94,13 +94,13 @@
           "#968d90"
       ],
       "CHAT_BACKGROUND": [
-          "#5b5b5c"
+          "#3d3b3c"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-          "#5b5b5c"
+          "#3d3b3c"
       ],
       "SPOILER_REVEALED_BACKGROUND": [
-          "#5b5b5c"
+          "#3d3b3c"
       ]
   },
   "rawColors": {
