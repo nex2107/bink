@@ -27,10 +27,10 @@
           "#7e5f67"
       ],
       "INTERACTIVE_HOVER": [
-          "#2B2B2B"
+          "968d90"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#2B2B2B"
+          "968d90"
       ],
       "INTERACTIVE_MUTED": [
           "#6a556b" 
@@ -85,7 +85,7 @@
           "#a87b87"
       ],
       "TEXT_DANGER": [
-          "#2B2B2B"
+          "968d90"
       ],
       "KEYBOARD": [
           "#3c3940"
