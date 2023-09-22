@@ -51,35 +51,35 @@
           "#5b4361"
       ],
       "BACKGROUND_FLOATING": [
-          "#6335a1"
+          "#3c3940"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-          "#6335a1"
+          "#3c3940"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-          "#6335a1"
+          "#3c3940"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-          "#6335a1"
+          "#3c3940"
       ],
      
       "BACKGROUND_MESSAGE_HOVER": [
           "#9e9899"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-          "#3c3940"
+          "#6335a1"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-          "#3c3940"
+          "#6335a1"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-          "#3c3940"
+          "#6335a1"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-          "#3c3940"
+          "#6335a1"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-          "#3c3940"
+          "#6335a1"
       ],
       "CHANNELS_DEFAULT": [
           "#a87b87"
