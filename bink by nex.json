@@ -36,13 +36,13 @@
           "#6a556b" 
       ],
       "BACKGROUND_PRIMARY": [
-          "#40393e"
+          "#3c3940"
       ],
       "BACKGROUND_SECONDARY": [
-          "#40393e"
+          "#3c3940"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-          "#40393e"
+          "#3c3940"
       ],
       "BACKGROUND_TERTIARY": [
           "#3c3940"
@@ -51,35 +51,35 @@
           "#5b4361"
       ],
       "BACKGROUND_FLOATING": [
-          "#40393e"
+          "#3c3940"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-          "#40393e"
+          "#3c3940"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-          "#40393e"
+          "#3c3940"
       ],
       "BACKGROUND_NESTED_FLOATING": [
-          "#40393e"
+          "#3c3940"
       ],
      
       "BACKGROUND_MESSAGE_HOVER": [
-          "#40393e"
+          "#3c3940"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-          "#40393e"
+          "#3c3940"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-          "#40393e"
+          "#3c3940"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
           "#302431"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-          "#40393e"
+          "#3c3940"
       ],
       "CHANNELTEXTAREA_BACKGROUND": [
-          "#40393e"
+          "#3c3940"
       ],
       "CHANNELS_DEFAULT": [
           "#7e5f67"
@@ -88,33 +88,33 @@
           "#565f89"
       ],
       "KEYBOARD": [
-          "#40393e"
+          "#3c3940"
       ],
       "CHANNEL_ICON": [
           "#7e5f67"
       ],
       "CHAT_BACKGROUND": [
-          "#40393e"
+          "#3c3940"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-          "#40393e"
+          "#3c3940"
       ],
       "SPOILER_REVEALED_BACKGROUND": [
-          "#40393e"
+          "#3c3940"
       ]
   },
   "rawColors": {
       "PRIMARY_100": "#e6b1c8",
-      "PRIMARY_200": "#40393e",
+      "PRIMARY_200": "#3c3940",
       "PRIMARY_300": "#7e5f67",
       "PRIMARY_360": "#7e5f67",
-      "PRIMARY_400": "#40393e",
-      "PRIMARY_500": "#40393e",
-      "PRIMARY_600": "#40393e",
-      "PRIMARY_630": "#40393e",
-      "PRIMARY_660": "#40393e",
-      "PRIMARY_700": "#40393e",
-      "PRIMARY_800": "#40393e",
+      "PRIMARY_400": "#3c3940",
+      "PRIMARY_500": "#3c3940",
+      "PRIMARY_600": "#3c3940",
+      "PRIMARY_630": "#3c3940",
+      "PRIMARY_660": "#3c3940",
+      "PRIMARY_700": "#3c3940",
+      "PRIMARY_800": "#3c3940",
   
       "BRAND_260": "#7e5f67",
       "BRAND_360": "#7e5f67",
